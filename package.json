@@ -1,0 +1,22 @@
+{
+  "name": "pawkit",
+  "version": "0.0.0",
+  "description": "kit of features for every day work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semori-trade/pawkit.git"
+  },
+  "keywords": [
+    "kit"
+  ],
+  "author": "semori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semori-trade/pawkit/issues"
+  },
+  "homepage": "https://github.com/semori-trade/pawkit#readme"
+}
